@@ -78,5 +78,5 @@ flowchart TD
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome].  
-Este projeto é para fins de estudo e prática com Angular.
+Desenvolvido por Álvaro Silva.  
+
